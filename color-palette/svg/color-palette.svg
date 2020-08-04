@@ -17,13 +17,13 @@
 	.st11{fill:#FFFFFF;}
 	.st12{fill:#BCD643;}
 </style>
-<polygon class="st0" points="1068.7,-596 810,-596 810,-84 1322,-84 1322,-247.9 1068.7,-247.9 "/>
-<rect x="1068.7" y="-596" class="st0" width="253.3" height="348.1"/>
+<polygon class="st0" points="1164.7,-585 906,-585 906,-73 1418,-73 1418,-236.9 1164.7,-236.9 "/>
+<rect x="1164.7" y="-585" class="st0" width="253.3" height="348.1"/>
 <g class="st0">
 	
-		<text transform="matrix(1 0 0 1 846.4224 -465.0488)" style="display:inline;fill:#CDD4D5; font-family:'Saira-Black'; font-size:64.1866px;">E = mc</text>
+		<text transform="matrix(1 0 0 1 942.4224 -454.0488)" style="display:inline;fill:#CDD4D5; font-family:'Saira-Black'; font-size:64.1866px;">E = mc</text>
 	
-		<text transform="matrix(1 0 0 1 1039.1074 -486.4227)" style="display:inline;fill:#CDD4D5; font-family:'Saira-Black'; font-size:37.4208px;">2</text>
+		<text transform="matrix(1 0 0 1 1135.1074 -475.4227)" style="display:inline;fill:#CDD4D5; font-family:'Saira-Black'; font-size:37.4208px;">2</text>
 </g>
 <rect x="96" y="11" class="st1" width="128" height="128"/>
 <rect x="224" y="11" class="st2" width="128" height="128"/>
